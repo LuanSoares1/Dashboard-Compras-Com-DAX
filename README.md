@@ -1,6 +1,6 @@
 # Dashboard-Compras
 Nesta análise de dados, foi feito uma detalhada análise de compras realizadas pela empresa.
-Também podera ver que no relatório eu coloquei em prática efeitos visuais mais elaborados e melhor detalhamento de dados para que a empresa possa entender melhor.
+Também será visto que no relatório foi colocado em prática efeitos visuais mais elaborados para uma apresentação e melhor detalhamento de dados para que a empresa possa entender o que foi mostrado.
 Neste exemplo veremos:
 1° Custo total.
 2° Lead compra.
