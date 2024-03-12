@@ -10,3 +10,5 @@ Neste exemplo veremos:
 6° Saving.
 8° Custo mensal.
 9° atalho de custo por fornecedor.
+10° Dax dos dados para melhor entendimento nos gráficos.
+11° Utilização da linguagem M para manipulação dos dados no Power Query.
